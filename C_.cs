@@ -8,7 +8,7 @@ namespace C_{
         static void Main(string[] args)
         {
 
-            ARC.Ex1();
+            Ex14_1Enum.Ex1();
               
         }
     }
