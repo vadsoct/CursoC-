@@ -1,4 +1,4 @@
-using System;
+/* using System;
 using System.Globalization;
 
 namespace Ricardibre
@@ -6,11 +6,12 @@ namespace Ricardibre
     class Programas
     {    
       
-        //static void Main(string[] args)
-        //{
+        static void Main(string[] args)
+        {
 
-            //RD_Vet_.Ex1();
+            RD_Vet_.Ex1();
               
-        //}
+        }
     }
 }
+*/

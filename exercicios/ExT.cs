@@ -8,6 +8,8 @@ namespace C_{
 
         System.Console.WriteLine("Olá mundo");
         System.Console.WriteLine("logando");
+        System.Console.WriteLine("desejo a vocês o que há de melhor");
+        System.Console.WriteLine("teste");
             
         }
     }

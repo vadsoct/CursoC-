@@ -2,14 +2,16 @@ using System;
 using System.Globalization;
 
 namespace C_{
-    class Program
+    class Programas
     {    
       
         static void Main(string[] args)
         {
 
-            Ext.Ex1();
+            ARC.Ex1();
               
         }
     }
 }
+
+
